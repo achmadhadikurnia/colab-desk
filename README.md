@@ -11,7 +11,7 @@ Built for simplicity and minimal user interaction.
 - **Automated Setup**: Installs desktop environment, browser (Google Chrome), and tunneling tools automatically.
 
 ## 🚀 How to Use
-1. Upload the `ColabDesk.ipynb` file to your [Google Colab](https://colab.research.google.com/).
+1. Click here to open the script directly in Google Colab: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/achmadhadikurnia/colab-desk/blob/main/ColabDesk.ipynb)
 2. On the right-side form, configure your preferred **VNC Password** and **Resolution**.
 3. In the **Ngrok Tokens** field, paste your token(s) from [ngrok.com](https://dashboard.ngrok.com). 
    *(You can paste a list of multiple tokens at once!)*
