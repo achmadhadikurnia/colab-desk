@@ -8,7 +8,7 @@ Built for simplicity and minimal user interaction.
 - **One-Click Execution**: No confusing multi-step cells. Fill the form, click run, and you're done!
 - **Direct Browser Access**: Powered by noVNC and XFCE4.
 - **Smart Token Fallback**: Experiencing ngrok rate limits? Paste a list of multiple ngrok tokens, and the script will automatically shuffle and try them until a stable tunnel is created.
-- **Automated Setup**: Installs desktop environment, browser (Firefox), and tunneling tools automatically.
+- **Automated Setup**: Installs desktop environment, browser (Google Chrome), and tunneling tools automatically.
 
 ## 🚀 How to Use
 1. Upload the `ColabDesk.ipynb` file to your [Google Colab](https://colab.research.google.com/).
