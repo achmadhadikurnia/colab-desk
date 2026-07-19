@@ -7,16 +7,30 @@ Built for simplicity and minimal user interaction.
 ## ✨ Features
 - **One-Click Execution**: No confusing multi-step cells. Fill the form, click run, and you're done!
 - **Direct Browser Access**: Powered by noVNC and XFCE4.
-- **Smart Token Fallback**: Experiencing ngrok rate limits? Paste a list of multiple ngrok tokens, and the script will automatically shuffle and try them until a stable tunnel is created.
-- **Automated Setup**: Installs desktop environment, browser (Google Chrome), and tunneling tools automatically.
+- **Automated Setup**: Installs desktop environment and tunneling tools automatically.
 
 ## 🚀 How to Use
-1. Click here to open the script directly in Google Colab: <a href="https://colab.research.google.com/github/achmadhadikurnia/colab-desk/blob/main/ColabDesk.ipynb" target="_blank"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"></a>
+1. Click here to open the script directly in Google Colab: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/achmadhadikurnia/colab-desk/blob/main/ColabDesk.ipynb)
 2. On the right-side form, configure your preferred **VNC Password** and **Resolution**.
-3. In the **Ngrok Tokens** field, paste your token(s) from [ngrok.com](https://dashboard.ngrok.com). 
-   *(You can paste a list of multiple tokens at once!)*
+3. In the **Ngrok Token** field, paste your token from [ngrok.com](https://dashboard.ngrok.com).
 4. Click the **Play (Run cell)** button.
-5. Wait ~2-3 minutes. A secure browser link will be generated. Click it, enter your password, and enjoy your cloud desktop!
+5. Wait ~2-3 minutes. A browser link will be generated. Click it, enter your password, and enjoy your cloud desktop!
+
+## ⭐ Upgrade to ColabDesk Pro
+
+Want more power? **ColabDesk Pro** unlocks premium features:
+
+| Feature | Free | Pro |
+|:---|:---:|:---:|
+| XFCE4 Desktop via noVNC | ✅ | ✅ |
+| Ngrok Tunneling | 1 token | Multi-token |
+| **Google Chrome Pre-installed** | ❌ | ✅ |
+| **Smart Token Fallback** (auto-retry on rate limits) | ❌ | ✅ |
+| **Rate-Limit Detection & Token Rotation** | ❌ | ✅ |
+| **Auto-Connect VNC** (no manual password entry) | ❌ | ✅ |
+| **Auto-Reconnect** with configurable delay | ❌ | ✅ |
+
+👉 **[Get ColabDesk Pro](https://lynk.id/achmadhadikurnia)**
 
 ## ☕ Support This Project
 If you find this project useful, you can support me here:
