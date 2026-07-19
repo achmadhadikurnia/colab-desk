@@ -4,9 +4,14 @@
 
 Built for simplicity and minimal user interaction.
 
+<p align="center">
+  <img src="assets/img/preview.jpg" alt="ColabDesk Preview" width="800">
+</p>
+
 ## ✨ Features
 - **One-Click Execution**: No confusing multi-step cells. Fill the form, click run, and you're done!
 - **Direct Browser Access**: Powered by noVNC and XFCE4.
+- **Mozilla Firefox**: Included as the default web browser.
 - **Automated Setup**: Installs desktop environment and tunneling tools automatically.
 
 ## 🚀 How to Use
@@ -24,13 +29,15 @@ Want more power? **ColabDesk Pro** unlocks premium features:
 |:---|:---:|:---:|
 | XFCE4 Desktop via noVNC | ✅ | ✅ |
 | Ngrok Tunneling | 1 token | Multi-token |
-| **Google Chrome Pre-installed** | ❌ | ✅ |
+| **Web Browser** | ❌ | Mozilla Firefox |
 | **Smart Token Fallback** (auto-retry on rate limits) | ❌ | ✅ |
 | **Rate-Limit Detection & Token Rotation** | ❌ | ✅ |
 | **Auto-Connect VNC** (no manual password entry) | ❌ | ✅ |
 | **Auto-Reconnect** with configurable delay | ❌ | ✅ |
 
-👉 **[Get ColabDesk Pro](https://lynk.id/achmadhadikurnia)**
+👉 **Get ColabDesk Pro:**
+- 🌍 **Global:** [Gumroad](https://achmadhadikurnia.gumroad.com/)
+- 🇮🇩 **Indonesia:** [Lynk.id](https://lynk.id/achmadhadikurnia)
 
 ## ☕ Support This Project
 If you find this project useful, you can support me here:
