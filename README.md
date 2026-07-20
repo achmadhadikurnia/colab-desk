@@ -5,7 +5,7 @@
 Built for simplicity and minimal user interaction.
 
 <p align="center">
-  <img src="assets/img/preview.jpg" alt="ColabDesk Preview" width="800">
+  <img src="assets/img/preview.png" alt="ColabDesk Preview" width="800">
 </p>
 
 ## ✨ Features
@@ -13,6 +13,14 @@ Built for simplicity and minimal user interaction.
 - **Direct Browser Access**: Powered by noVNC and XFCE4.
 - **Mozilla Firefox**: Included as the default web browser.
 - **Automated Setup**: Installs desktop environment and tunneling tools automatically.
+
+## 🎯 Use Cases (Why ColabDesk?)
+- **Web Scraping & Botting**: Run browser automation (Selenium/Puppeteer) on a remote server without using local resources.
+- **Cloud-to-Cloud Transfer**: Leverage Google Colab's massive backbone internet speed for downloading/uploading huge files.
+- **Data Science & ML IDE**: Run graphical tools (like JupyterLab UI or VS Code) visually on the cloud.
+- **Private Browsing Sandbox**: Surf the web securely using Google's IP address (perfect for avoiding local ISP blocks).
+- **Trading & Crypto Bots**: Keep your lightweight bots running in a contained, disposable Linux environment.
+- **View Farming (YouTube, etc.)**: Auto-play videos for hours to farm views or watch time without burning your local bandwidth.
 
 ## 🚀 How to Use
 1. Click here to open the script directly in Google Colab: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/achmadhadikurnia/colab-desk/blob/main/ColabDesk.ipynb)
