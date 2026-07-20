@@ -42,6 +42,7 @@ Want more power? **ColabDesk Pro** unlocks premium features:
 | **Rate-Limit Detection & Token Rotation** | ❌ | ✅ |
 | **Auto-Connect VNC** (no manual password entry) | ❌ | ✅ |
 | **Auto-Reconnect** with configurable delay | ❌ | ✅ |
+| **Anti-Disconnect Script** (Keep Colab Awake) | ❌ | ✅ |
 
 👉 **Get ColabDesk Pro:**
 - 🌍 **Global:** [Gumroad](https://achmadhadikurnia.gumroad.com/)
